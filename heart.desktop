@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=heart
+Exec=heartlistener
+Icon=blue_heart.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Name[en_US]=heart

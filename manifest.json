@@ -1,0 +1,16 @@
+{
+    "name": "heart.mateo-salta",
+    "description": "gets heart rate from bluetooth device",
+    "architecture": "@CLICK_ARCH@",
+    "title": "heart",
+    "hooks": {
+        "heart": {
+            "apparmor": "heart.apparmor",
+            "desktop":  "heart.desktop"
+        }
+    },
+    "version": "2.2",
+    "maintainer": "Mateo Salta <mateo_salta@yahoo.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
+
